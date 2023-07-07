@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shriya Pandey</h1>
-<p class="empty" >A passionate Full Stack Developer and a quick learner,looking forward to work with an organization where i can utilize my skills and learn and grow more.</> 
+<h3 color="blue">About Me: </h3>
+<p class="empty" > I am A passionate Full Stack Developer and a quick learner looking forward to working with an organization where I can utilize my skills and learn and grow more.</> 
 <img align="right" alt "gif" width="400" 
 src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966"/>
   
