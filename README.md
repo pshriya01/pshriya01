@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shriya Pandey</h1>
 <h3 color="blue">About Me: </h3>
-<p>A Skilled Full Stack Web Developer proficient in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.</p> 
+<p class="empty"><em>A Skilled Full Stack Web Developer proficient in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.</em></p> 
 <img align="right" alt "gif" width="400" 
 src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966"/>
   
