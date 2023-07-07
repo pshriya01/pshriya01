@@ -1,87 +1,30 @@
-**<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>**
+<h1 align="center">Hi 👋, I'm Shriya Pandey</h1>
+<h3 color="blue">About Me: </h3>
+<p class="empty"><em>A Skilled Full Stack Web Developer proficient in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.</em></p> 
+<img align="right" alt "gif" width="400" 
+src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966"/>
+  
+- 🌱 I’m currently learning **Full Stack Develpment**
 
-<p class="empty"><em>
-<!-- Motivated Node Backend Developer with a strong proficiency in HTML, CSS, and JavaScript. Skilled in developing backend solutions using Node.js, Express.js, MongoDB, and Mongoose. Successfully completed a comprehensive 1000+ hour web development course at Masai School, gaining hands-on experience in individual and collaborative projects. Committed to delivering high-quality backend solutions, continuously learning, and fostering effective teamwork.
-   -->
-  A Skilled Full Stack Web Developer proficient in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
-<p>More About Masai School: <a href="https://masaischool.com/">Click Here</a></p>
-</em></p>
+- 💬 Ask me about **React,HTML,CSS,JS**
 
-
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
-
-
-- 🌱 I’m currently learning **Full Stack Web Development Course**
-
-- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/'>Portfolio</a>
-
-- 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose**
-
-<!-- - All my project's are availalbe in portfolio : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) -->
-
-- 📫 How to reach me : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
-
-<!-- - 📄 Know about my experiences [name](link should be added here) -->
----
-
-<img align="center" width="100%" height="400px" src="https://meeteasy-main-server.onrender.com/photos/files/6491ec17b6cd5f116897c0f2"  alt="https://meeteasy-main-server.onrender.com/photos/files/6491ec17b6cd5f116897c0f2">
-
----
-**<i><h3 align="left">Languages and Tools:</h3></i>**
-
-  <div align="left">
-
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,netlify,vscode,mongoose)](#)
-
-  </div>
-
----
-**<h3 align="left">Connect with me:</h3>**
-
-**Email:- rushikeshbhomale@gmail.com**
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://rbhomale17.github.io/">
-    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-<!--   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
-  </a>
-</div>
-
+- 📫 How to reach me **shriya.shriya16@gmail.com**
+ <hr/>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shriya-pandey-b41b5a213" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png" alt="shriya-pandey-b41b5a213" height="20" width="20" />shriya-pandey</a>
 </p>
+<hr/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=123603&format=png" alt="react" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=1x&id=kg46nzoJrmTR&format=png" alt="express" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8rKdRqZFLurS&format=png" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" alt="nodejs" width="40" height="40"/> </a></p>
+<hr/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pshriya01&show_icons=true&locale=en&layout=compact" alt="pshriya01" /></p>
 
----
-
-
-
-**My Github Stats:**
-
- <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>  <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>   <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="rbhomale17 github stats" /></a>  
-
-<!-- <div style="display: grid; grid-template-columns: repeat(2, 500px);">
- <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true" />
- <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact" />
- <!-- --- -->
- <!-- <img class="img" height:"150%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="Rushikesh_Bhomale" /> -->
- <!-- </div> -->
-
-<!-- <p align="left"> <img class="img" height:"150%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="Rushikesh_Bhomale" /></a> </p> -->
-
----
-
- <a href="https://github.com/rbhomale17"><img src="https://github-profile-trophy.vercel.app/?username=rbhomale17" alt="Rushikesh_Bhomale" /></a>  
-  <a href="https://github.com/rbhomale17"><img src="https://github-contributor-stats.vercel.app/api?username=rbhomale17&limit=5&combine_all_yearly_contributions=true" alt="Rushikesh_Bhomale" /></a>  
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbhomale17" alt="Rushikesh_Bhomale" /></a> </p> -->
-
----
+<p><img align="center" backgroundColor="black" src="https://github-readme-streak-stats.herokuapp.com/?user=pshriya01&" alt="pshriya01" /></p>
+<hr/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pshriya01" alt="pshriya01" /></a> </p>
