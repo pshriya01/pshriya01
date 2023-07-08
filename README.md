@@ -34,6 +34,6 @@ src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee
 <hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pshriya01&show_icons=true&locale=en&layout=compact" alt="pshriya01" /></p>
 
-<a href="https://github.com/pshriya01"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pshriya01&" alt="rbhomale17 github stats" /></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=pshriya01&"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pshriya01&" alt="rbhomale17 github stats" /></a>
 <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pshriya01" alt="pshriya01" /></a> </p>
