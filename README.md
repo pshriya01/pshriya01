@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Shriya Pandey</h2>
+<h1 align="center">Hi 👋, I'm Shriya Pandey</h1>
 <h3 color="blue">About Me: </h3>
 <p class="empty"><em>Highly skilled Full Stack Web Developer
 proficient in MERN stack. Completed 1200+
