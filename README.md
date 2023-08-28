@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee
   
 - 🌱 I’m currently learning **Full Stack Develpment**
 
-- 💬 Ask me about **React,HTML,CSS,JS**
+- 💬 Ask me about **React,Node.js,Express.js,MongoDb,HTML,CSS,JS**
 
 - 📫 How to reach me **shriya.shriya16@gmail.com**
   
