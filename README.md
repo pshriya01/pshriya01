@@ -11,9 +11,9 @@ team player, and quick learner.
 <img align="right" alt "gif" width="400" 
 src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee99e4c4bee2556a9b2bc57465/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a7942764135436e455833536434616f642e676966"/>
   
-- 🌱 I’m currently learning **Full Stack Develpment**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **React,Node.js,Express.js,MongoDb,HTML,CSS,JS**
+- 💬 Ask me about **React, Node.js, Express.js,MongoDB, HTML,CSS, JS**
 
 - 📫 How to reach me **shriya.shriya16@gmail.com**
   
