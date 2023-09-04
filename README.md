@@ -17,7 +17,7 @@ src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee
 
 - 📫 How to reach me **shriya.shriya16@gmail.com**
   
-<h4>👨‍💻To know more about my work, please refer my <a href="https://pshriya01.github.io">Portfolio<a/></h4>
+ <h4>👨‍💻To know more about my work, please refer my <a href="https://pshriya01.github.io">Portfolio<a/></h4>
  <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
