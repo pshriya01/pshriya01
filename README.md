@@ -3,8 +3,8 @@
 <p class="empty"><em>Highly skilled Full Stack Web Developer
 proficient in MERN stack. Completed 1200+
 hours of Full Stack Web Development course
-at Masai school, gaining hands-on experience
-in building dynamic projects using HTML,
+at Masai School, gaining hands-on experience
+In building dynamic projects using HTML,
 CSS, JS, and React.Good communicator,
 team player, and quick learner.
 </em></p> 
@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee
   
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **React, Node.js, Express.js,MongoDB, HTML,CSS, JS**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, HTML, CSS, JS**
 
 - 📫 How to reach me **shriya.shriya16@gmail.com**
   
