@@ -19,7 +19,7 @@ src="https://camo.githubusercontent.com/4cfc2138e2bc55b361b9d35bf865144dce669bee
   
 - <h4>👨‍💻To know more about my work, please refer my <a href="https://pshriya01.github.io">Portfolio<a/></h4>
  <hr/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/shriya-pandey-b41b5a213" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png" alt="shriya-pandey-b41b5a213" height="20" width="20" />shriya-pandey</a>
 </p>
